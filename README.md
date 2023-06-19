@@ -1,5 +1,5 @@
-<h1 align="center">Hey I'm Garvit!!</h1>
-<h3>I'm and Machine Learning Enthusiast </h3>
+<h2 align="left">Hey I'm Garvit!!</h2>
+<h3>I'm a Machine Learning Enthusiast </h3>
 
 <h4> 🧩 Budding programmer and innovator </h4> 
 <h4> ⚛️ Building the future, one code at a time</h4>
